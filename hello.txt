@@ -1,1 +1,2 @@
 Hello,open source world!
+This is my new Journey to becoming a contributor!
